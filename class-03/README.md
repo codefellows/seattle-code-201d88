@@ -4,6 +4,12 @@
 
 This class is a highly conceptual. We will be diving deeper into **control flow**, **arrays**, and more about the CSS **box model** and basic page layout.
 
+## INCLASS TAKEAWAYS AND NOTES
+
+- [ARRAY REPLIT](https://replit.com/@arpatterson31/Class-201d88-ARRAYS#index.js)
+- [LOOPS REPLIT](https://replit.com/@arpatterson31/Class-201d88-LOOPS#index.js)
+- [LECTURE NOTES](lecture-notes.md)
+
 ## Class Outline
 
 - Code review of previous lab assignment
