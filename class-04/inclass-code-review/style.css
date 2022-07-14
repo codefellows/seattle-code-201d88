@@ -1,0 +1,19 @@
+main {
+  font-size: 3vw;
+  width: 50%;
+  /* margin: auto; */
+  /* margin-top: 50px; */
+  margin-left: 50px;
+}
+
+ul {
+  /* list-style-type: square; */
+  list-style-type: "😻 ";
+  list-style-position: inside;
+}
+
+ol {
+  list-style-type: decimal;
+  /* list-style-position: inside; */
+
+}
