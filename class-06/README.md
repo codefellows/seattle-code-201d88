@@ -1,5 +1,11 @@
 # The DOM, Domain Modeling, and Introduction to Objects
 
+## INCLASS NOTES AND TAKEAWAYS
+
+- [LECTURE NOTES](lecture-notes.md)
+- [KITTEN DEMO CODE WITH OBJECT LITERALS AND DOM MANIPULATION](inclass-demo)
+- [OBJECT REPLIT](https://replit.com/@arpatterson31/Class-201d88-OBJECTS#index.js)
+
 ## Class Outline
 
 - Code review of previous class lab assignment
