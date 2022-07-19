@@ -2,9 +2,9 @@
 
 ## IN CLASS NOTES AND TAKEAWAYS
 
--[LECTURE NOTES](lecture-notes.md)
--[CONSTRUCTOR REPLIT](https://replit.com/@arpatterson31/Class-201d88-CONSTRUCTORS#index.js)
--[IN CLASS DEMO CODE - CONSTRUCTOR REFACTOR AND TABLE EXAMPLE](inclass-demo/)
+- [LECTURE NOTES](lecture-notes.md)
+- [CONSTRUCTOR REPLIT](https://replit.com/@arpatterson31/Class-201d88-CONSTRUCTORS#index.js)
+- [IN CLASS DEMO CODE - CONSTRUCTOR REFACTOR AND TABLE EXAMPLE](inclass-demo/)
 
 ## Overview
 
