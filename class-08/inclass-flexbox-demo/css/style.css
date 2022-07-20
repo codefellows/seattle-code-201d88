@@ -11,13 +11,22 @@ h1 {
 #container {
     background-color: #003049;
     width: 90%;
-    height: 500px;
+    height: 700px;
     margin: 0 auto;
     border: 5px solid #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    /* align-items: center; */
 
 }
 
 #container div {
     width: 200px;
     height: 200px
+}
+
+div:nth-of-type(3){
+  align-self: center;
 }
