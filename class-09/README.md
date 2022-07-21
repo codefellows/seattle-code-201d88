@@ -1,5 +1,11 @@
 # HTML Forms and JS Events
 
+## IN CLASS NOTES AND TAKEAWAYS
+
+- [LECTURE NOTES](lecture-notes.md)
+- [KITTY DEMO - FORMS AND EVENTS](inclass-kitty-demo/)
+- [BASIC FORM AND EVENT DEMO](inclass-demo-form-events/)
+
 ## Overview
 
 In this class you will be learn JavaScript Events and how they can bring interactivity to your application. You will also learn how to construct HTML forms.
