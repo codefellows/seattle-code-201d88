@@ -1,0 +1,57 @@
+.grid-container {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(200px, auto);
+/* grid-template-rows << if you know or have items that will always be the same height */
+  /* row-gap: 30px;
+  column-gap: 30px; */
+  /* gap: 30px; */
+
+  /* grid-template-areas:
+    "header header header"
+    "sidebar content content"
+    "sidebar content content"
+    "sidebar content content"
+    "sidebar article article"
+    "footer footer footer"
+  ; */
+
+}
+
+.grid-item1{
+  /* grid-area: header; */
+  grid-column: 1/-1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid-item2{
+  /* grid-area: sidebar */
+  grid-row: 2/6;
+}
+
+.grid-item3{
+  /* grid-area: content */
+  grid-column: 2/-1;
+  grid-row: 2/5;
+
+}
+
+.grid-item4{
+  /* grid-area: article */
+  grid-column: 2/-1;
+}
+
+.grid-item5{
+  /* grid-area: footer */
+  grid-column: 1/-1;
+}
+
+.grid-container div {
+  border: 2px solid black;
+  font-size: 1.5em;
+  padding: 30px;
+
+}
